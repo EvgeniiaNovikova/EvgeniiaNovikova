@@ -1,4 +1,4 @@
-### Hi there 👋 my name is (https://www.linkedin.com/in/evgeniia-mironenko/)
+### Hi there 👋 my name is [Evgeniia Mironenko](https://www.linkedin.com/in/evgeniia-mironenko/), I am a Software QA Automation Engineer 
 
 <!--
 **EvgeniiaNovikova/EvgeniiaNovikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
