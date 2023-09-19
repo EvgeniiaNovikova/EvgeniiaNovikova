@@ -1,4 +1,4 @@
-### Hi there 👋 my name is [Evgeniia Mironenko](https://www.linkedin.com/in/evgeniia-mironenko/), I am a Software QA Automation Engineer <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47wh1niw2o1sc6nppj54bl4f1zitppxuiisxrufq7s&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" width="70">
+### Hi there 👋 my name is [Evgeniia Mironenko](https://www.linkedin.com/in/evgeniia-mironenko/), I am a Software QA Automation Engineer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRteWEzY2cyY3JyY3JrOW03Z29temNhazA4NGlsMXlsbmptMnVzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGmmfwQtCyHvwzhlyj/giphy.gif" width="60">
 
 <!--
 **EvgeniiaNovikova/EvgeniiaNovikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
