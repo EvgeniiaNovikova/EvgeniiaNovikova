@@ -24,6 +24,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_safari_logo_icon_170535.png" width='120'>&nbsp;
 <img src="https://churchm.ag/wp-content/uploads/2012/02/Firefox.png" width='120'>&nbsp;
 <img src="https://i.pinimg.com/originals/e5/29/3e/e5293eb7ebba18cda2aff688ee6a2f60.png" width='60'>&nbsp;
+<img src="https://www.xtuos.com/wp-content/uploads/2022/02/Opera-Browser-logo.png" width='75'>&nbsp;
+
 
 
 
