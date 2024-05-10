@@ -22,7 +22,7 @@
 <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397187704/15bb34bcfe389500a2f7998aefbcac89.png" width='68'>&nbsp;
 <img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" width='60'>&nbsp;
 <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/sublime-text-vector-logo.png" width='120'>&nbsp;
-<img src="https://buralog.jp/wp-content/uploads/2020/02/notepad-plusplus-logo3.png.pagespeed.ce.or0-srpmWY.png" width='120'>&nbsp;
+<img src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png" width='120'>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2020/08/Chrome-Symbol-700x394.png" width='120'>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_safari_logo_icon_170535.png" width='120'>&nbsp;
 <img src="https://churchm.ag/wp-content/uploads/2012/02/Firefox.png" width='120'>&nbsp;
